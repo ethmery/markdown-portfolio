@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Received training in **Material mechanics, structural mechanics**
+- Participated competition of *Structural design of Architecture*
