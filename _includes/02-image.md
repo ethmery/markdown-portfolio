@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Some image](http://bbs.sutta.org/static/image/common/logo.png)
