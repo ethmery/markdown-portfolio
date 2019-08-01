@@ -1,0 +1,2 @@
+- Received training in **Material mechanics, structural mechanics**
+- Participated competition of *Structural design of Architecture*
